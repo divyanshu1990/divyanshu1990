@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @divyanshu1990
 - 👀 I’m interested in web development, google cloud computing, Ai&ml.
 
-- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate ....
 - 📫 How to reach me ...
 
